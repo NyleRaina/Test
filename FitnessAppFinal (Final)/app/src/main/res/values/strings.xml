@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitnessAppFinal</string>
+    <string name="price">price</string>
+    <string name="category">category</string>
+    <string name="product">product</string>
+    <string name="sNo">sNo</string>
+</resources>
